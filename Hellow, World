@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang='ru'>
+<html lang='en'>
 <head>
 	<meta charset='UTF-8'
 	<title>simple_project</title>
 </head>
 <body>
 <h1>Hellow, World!</h1>
+<p>ПРивет из алгоритмики!</p>
+<p>ПРивет из алгоритмики!</p>
 </body>
 </html>
